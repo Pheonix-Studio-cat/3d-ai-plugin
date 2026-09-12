@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "3d-gen-1": {
+      "type": "http",
+      "url": "${MCP_3D_URL:-https://my-mcp-server.dean-hausmann.workers.dev/mcp}",
+      "headers": {
+        "Authorization": "Bearer ${HF_TOKEN}"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "3d-ai-plugin",
+  "displayName": "3D AI (3d-gen-1)",
+  "version": "0.1.0",
+  "description": "Generate 3D meshes from text with the 3d-gen-1 model on Hugging Face. Runs on your own Hugging Face account and credit.",
+  "author": {
+    "name": "Pheonix-Studio-cat",
+    "url": "https://github.com/Pheonix-Studio-cat"
+  },
+  "homepage": "https://github.com/Pheonix-Studio-cat/3d-ai-plugin",
+  "repository": "https://github.com/Pheonix-Studio-cat/3d-ai-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["3d", "mesh", "text-to-3d", "hugging-face", "meshgpt", "mcp"]
+}
